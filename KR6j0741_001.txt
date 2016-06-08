@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1955
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0741_T_001-0989b> 
 #+PROPERTY: JUAN 1
 ¶
@@ -31,7 +31,7 @@ No. 1955¶
 悟。天假辯聰。髫齓禮於名師。十五歷於學肆。¶
 參禪訪道。博達多聞。內精五教之宗。外善百¶
 家之奧。利名不染。愛惡非交。既而厭處都城。¶
-肆志巖壑。積累載之勤悴。窮大藏之淵源。撮¶
+肆志巖[堅-臣+(虍-七+(一/谷))]。積累載之勤悴。窮大藏之淵源。撮¶
 樞要而誠誦在心。剖義理而若指諸掌。以謂¶
 所閱大小之教。不出顯密之兩途。皆證聖之¶
 要津。入真之妙道。覽其文體。則異猶盤盂。自¶
